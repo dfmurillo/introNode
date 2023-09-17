@@ -1,5 +1,7 @@
 # Johar Intro to Node
 
+## Google Meet: https://meet.google.com/boi-mpti-aay
+
 ## Useful Links:
 - Object Oriented Programming: https://www.freecodecamp.org/espanol/news/programacion-orientada-a-objectos-en-javascript-explicado-con-ejemplos/
 - ChatGPT: https://chat.openai.com/
@@ -15,3 +17,7 @@ Response:
 
 ### 20230917
 Whiteboard: https://www.figma.com/file/ZETloRzAa432zuCRa9Lchz/Welcome-to-FigJam?type=whiteboard&t=KUGRrbMJiv0a4PqH-0
+Homeworks:
+- For Mario 1-1 you will create an algorithm describing how to pass the first world, you´ll need to keep in mind, jumping when there are koopas, looping jumps to take all the coins and so on.
+  - Written algorithm
+  - Algorithm in nodeJS
